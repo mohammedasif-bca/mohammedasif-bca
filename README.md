@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-i am first year bca student and i am aspiring to be a data analyst<br>
+i am Second Year BCA Student<br>
 
 
 # 💻 Tech Stack:
